@@ -1,5 +1,8 @@
 # CV Project: Lane Boundary Detection from Highway Video
 
+Team: Aria Askaryar, Souley Diallo, Varun Dhir
+
+
 ### Abstract
 Lane boundary extraction is a practical computer vision task that can be solved with classical methods. This project builds a lane-marking detector on highway video using filtering, edge detection, region masking, and line fitting. The output is a lane overlay and frame-level quality metrics.
 
