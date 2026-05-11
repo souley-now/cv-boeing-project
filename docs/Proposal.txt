@@ -1,0 +1,59 @@
+CV Class Project 
+
+Project proposal or standard project selection due: 4/10/26 
+
+Project Report Due: 5/11/26 
+
+Project Outcome: 
+
+Upon completion of the project the team should submit an ~1000 word report showing what was achieved by the project, including relevant results, images, etc. 
+
+ 
+
+Student Proposal 
+
+Teams should come up with a group project that demonstrates proficiency in either two to three related subject matters that we've covered in this class (e.g. filtering + interest points + line fitting; or estimation of the camera matrix + computing homographies) or in a single “big idea” subject (e.g. structure from motion pipeline, MaskRCNN, YOLO, etc). The project can be of the team’s choosing. The project should ideally relate to a real problem at Boeing of interest to the team members. Teams should first put together a proposal of their project due on 4/6/26 that outlines a problem statement for their project. The problem statement should be in the form of an abstract and 
+
+Explain what the current state of the problem is 
+
+State the desired outcome at the end of their project 
+
+Detail the approach to solving the problem 
+
+What data inputs they have related to the problem 
+
+What techniques they plan to leverage to advance the problem from the current state to the desired state 
+
+What metrics will be used to assess performance of the solution 
+
+Any potential blockers they see to go from the current state to the final state. 
+
+CV Class Project 
+
+Project proposal or standard project selection due: 4/10/26 
+
+Project Report Due: 5/11/26 
+
+Project Outcome: 
+
+Upon completion of the project the team should submit an ~1000 word report showing what was achieved by the project, including relevant results, images, etc. 
+
+ 
+
+Student Proposal 
+
+Teams should come up with a group project that demonstrates proficiency in either two to three related subject matters that we've covered in this class (e.g. filtering + interest points + line fitting; or estimation of the camera matrix + computing homographies) or in a single “big idea” subject (e.g. structure from motion pipeline, MaskRCNN, YOLO, etc). The project can be of the team’s choosing. The project should ideally relate to a real problem at Boeing of interest to the team members. Teams should first put together a proposal of their project due on 4/6/26 that outlines a problem statement for their project. The problem statement should be in the form of an abstract and 
+
+Explain what the current state of the problem is 
+
+State the desired outcome at the end of their project 
+
+Detail the approach to solving the problem 
+
+What data inputs they have related to the problem 
+
+What techniques they plan to leverage to advance the problem from the current state to the desired state 
+
+What metrics will be used to assess performance of the solution 
+
+Any potential blockers they see to go from the current state to the final state. 

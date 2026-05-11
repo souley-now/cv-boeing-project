@@ -3,6 +3,13 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Project-generated artifacts
+results/
+*_detection.mp4
+*_detection_v2.mp4
+*_detection_v3.mp4
+output_lane_detection.mp4
+
 # C extensions
 *.so
 
